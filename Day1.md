@@ -2,7 +2,7 @@
 - Ansible is a automation platform for Provisioning, Configuration management, Deployment & Network automation
 
 ## Why Ansible?
-- Ansible used YAML and is agent-less
+- Ansible uses YAML and is agent-less
 - Other tools like Puppet & Chef has more learning curve as they use Ruby & also we have to install agents on target machines
 
 ### More details on Ansible
