@@ -20,3 +20,7 @@
 - PIP should be installed 
 - `pip3 install ansible` - to install ansible
 - `ansible --version` - to verify ansible version
+
+### Plugin's
+- VS Code editor
+- YAML & Ansible plugin's from RedHat
